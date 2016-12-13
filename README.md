@@ -4,9 +4,12 @@
 > When you have written your headline, you have spent eighty cents out of your dollar.<br>
 > — David Ogilvy
 
-* [stacjonarne](stacjonarne.md) – czwartki, g. 10:15, s. 328
+* [stacjonarne](stacjonarne.md) – poniedziałki, g. 16:00, s. 309
 * [niestacjonarne](niestacjonarne.md)
+
+<!--
 * [licencjat](licencjat.md)
+-->
 
 Zagadnienia na egzamin licencjacki z informatyki:
 
@@ -15,15 +18,6 @@ Zagadnienia na egzamin licencjacki z informatyki:
 
 oraz dokument 
 [omawiający warunki techniczne przygotowania prac dyplomowych](https://inf.ug.edu.pl/prace-dyplomowe-licencjackie).
-
-
-## Deep Learning
-
-* [Torch](http://torch.ch/):
-  - [Applied Deep Learning for Computer Vision with Torch](https://github.com/soumith/cvpr2015)
-* Adrian Rosebrock. 
-  - [OpenCV, RPi.GPIO, and GPIO Zero on the Raspberry Pi](http://www.pyimagesearch.com/2016/05/09/opencv-rpi-gpio-and-gpio-zero-on-the-raspberry-pi/)
-* [Accelerated Mobile Pages Project](https://www.ampproject.org) by Google
 
 
 ## Git & LaTeX
@@ -53,6 +47,21 @@ oraz dokument
 … i jeszcze jeden link, też tak na wszelki wypadek:
 
 * [Korekty tekstu przez internet](http://turbokorekty.pl)
+
+
+### Przytaczanie w pracy nazw rozwiązań
+
+1. Używanie nazwy rozwiązania wymyślonej przez jego twórcę:
+  * Wystarczy na dole stronny przypis o źródle, w którym to rozwiązanie zostało opisane, a w treści pracy cudzysłowy nie będą wymagane.
+
+2. Używanie nazwy rozwiązania wymyślonej przez jego twórcę, ale nie ma dostępu do oryginalnego źródła, na którym rozwiązanie zostało opisane:
+  * Należy dodać przypis o źródle, w którym znaleziono informację o danym rozwiązaniu i uściślić, że powołujemy się na nazwę, która została przytoczona przez autora źródła, który natomiast przytoczył ją z jeszcze innego źródła. Po umieszczeniu takiego opisu, cudzysłowy w treści pracy nie są konieczne.
+
+3. Używanie nazwy, która nie jest nazwą własną, ale jest używana przez autora źródła, w którym rozwiązanie zostało opisane:
+  * Trzeba dodać przypis o źródle, w którym opisano rozwiązanie i zaznaczyć, że używamy tej nazwy za autorem danego źródła, a cudzysłów w treści pracy nie będzie konieczny.
+
+4. Używanie nazwy, która nie jest nazwą własną, ale autor pracy używa jej dla tzw. skrótu myślowego by przywołać dane rozwiązanie bez każdorazowego opisywania go:
+  * Jeśli w pracy umieści się przypis mówiący o tym, że autor używa danej nazwy do przywołania konkretnego rozwiązania, to w treści pracy można zrezygnować z używania cudzysłowu.
 
 
 ### Język polski (typografia)
@@ -157,6 +166,7 @@ Obrazki, tabelki, itp. Przykład z książki T. Piketty, „Kapitał w XXI wieku
 
 ## The Science of Scientific Writing
 
+* [The Leek group guide to giving talks](https://github.com/jtleek/talkguide)
 * [Writing paragraphs that make sense—the topic and the stress position](http://serialmentor.com/blog/2013/9/26/writing-paragraphs-that-make-sensethe-topic-and-the-stress-position)
 * [Flow](https://www.youtube.com/watch?v=e9V1tiGChzc)
 * [The Science of Scientific Writing](http://www.americanscientist.org/issues/pub/the-science-of-scientific-writing), [pdf](http://www.inf.fu-berlin.de/lehre/pmo/eng/ScientificWriting.pdf)
@@ -170,3 +180,4 @@ Obrazki, tabelki, itp. Przykład z książki T. Piketty, „Kapitał w XXI wieku
 1. [Creativity is not a team sport](http://www.improvides.com/2014/03/24/creativity-team-sport-interview-vincent-walsh-prof-neuroscience-ucl/)
    – Vincent Walsh, Prof. Neuroscience UCL (interview).
 1. [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) :heart_eyes:, :ok_hand:, :beetle:, :gem:.
+1. [Accelerated Mobile Pages Project](https://www.ampproject.org) by Google
